@@ -1,0 +1,124 @@
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe.config
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Ice Cream.pdb
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Properties.Resources.resources
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice Cream.exe
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice Cream.pdb
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Login.resources
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Avaliacao.resources
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Form1.resources
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Load.resources
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.CopyComplete
+C:\Users\User\Desktop\Software\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Crud.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe.config
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Ice Cream.pdb
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\MySql.Data.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Buffers.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Memory.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Zstandard.Net.dll
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\MySql.Data.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Buffers.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Memory.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csprojAssemblyReference.cache
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Avaliacao.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Crud.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Form1.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Load.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Login.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Properties.Resources.resources
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.GenerateResource.cache
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.CoreCompileInputs.cache
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.CopyComplete
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.exe
+C:\Users\EMERSON ROCHA\Downloads\Ice Cream-20200818T164111Z-001\Ice Cream\Ice Cream\obj\Debug\Ice Cream.pdb
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe.config
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Ice Cream.pdb
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\MySqlConnector.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Avaliacao.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Crud.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Form1.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Load.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Login.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Properties.Resources.resources
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice Cream.csproj.CopyComplete
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice Cream.exe
+C:\Users\User\Desktop\Visual\C#\Ice Cream\Ice Cream\obj\Debug\Ice Cream.pdb
